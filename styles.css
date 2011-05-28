@@ -6,6 +6,16 @@ h1 {
     background: url(images/background.gif) top center no-repeat;
 	padding-top: 350px;
 	margin-top: 30px;
+	padding-bottom: 20px;
 	text-align: center;
 	font-size: 40px;
+}
+
+dl { 
+	text-align: center; 
+}
+
+dd {
+	margin-left: 0px;
+	padding-bottom: 12px;
 }
